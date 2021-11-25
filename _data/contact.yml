@@ -7,6 +7,7 @@
 -
   type: instagram
   icon: 'fab fa-instagram'
+  # url: 'https://www.instagram.com/wilhgodoy/'
   noblank: true            # open link in current tab
 # -
 #   type: twitter
@@ -14,6 +15,7 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'
+  # url: 'https://www.linkedin.com/in/wilber-h-godoy'
   noblank: true            # open link in current tab
 # -
 #   type: email

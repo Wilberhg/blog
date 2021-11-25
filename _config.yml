@@ -33,8 +33,11 @@ url: 'https://wilberhg.github.io'
 github:
   username: wilberhg             # change to your github username
 
-twitter:
-  username: wilber-h-godoy            # change to your twitter username
+instagram:
+  username: wilhgodoy            # change to your twitter username
+
+linkedin:
+  username: wilber-h-godoy
 
 social:
   # Change to your full name.
@@ -43,12 +46,11 @@ social:
   email: wilberhg@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/wilber-h-godoy
     # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/wilberhg       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/wilber-h-godoy
+    # - https://www.linkedin.com/in/wilber-h-godoy
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
